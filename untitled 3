@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>Yasuhito</title>
+  <style>
+    #a {
+      text-align: center;
+      font-family: 'ヒラギノ角ゴシック', sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="a">
+    <h1>鈴木康仁の自己紹介</h1>
+    
+    <h2>名前</h2>
+    <h3>鈴木康仁</h3>
+    
+    <h2>好きなこと</h2>
+    <h3>・サッカー<br>
+        ・シャーペン集め<br>
+        ・将棋</h3>
+        
+    <h2>好きな食べ物</h2>
+    <h3>・ラーメン<br>・寿司<br>・焼肉<br>・すき焼き</h3>
+  </div>
+
+</body>
+</html>
